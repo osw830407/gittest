@@ -1,6 +1,0 @@
-
-  - name: profile tuning
-    template:
-      src: templates/profile.j2
-      dest: /etc/profile
- 
